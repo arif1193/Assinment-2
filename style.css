@@ -1,0 +1,55 @@
+.bg-color{
+    background-color: rgb(245, 225, 196);
+}
+.font-color{
+    color: black;
+}
+.button{
+    font-size: 1em;
+    height: 53px;
+    width: 150px;
+    color: white;
+    border-radius: 10px;
+    background-color: rgb(147, 190, 28);
+    
+  }
+  .panda-card{
+      border: 0;
+     width: 90%;
+      border-radius: 20px;
+     
+  }
+  .catagories img{
+      background-color: blueviolet;
+      
+      margin-left: 20px;
+      margin-top: 20px;
+      height: 300px;
+      
+      
+       
+
+  }
+  .panda-card-footer{
+      background-color: white;
+      border: 0;
+      
+  }
+  .card-footer{
+      float: left;
+      
+  }
+  .card-title{
+      color:rgb(226, 157, 67);
+      font:bold;
+  }
+
+ .half-width{
+     width: 40%;
+     margin: 5%;
+     float: left;
+     
+ }
+ .card{
+     color: greenyellow;
+ }
